@@ -2,6 +2,8 @@
 
 2019春学期 金4 研究会学習資料
 
+# Textbook
+
 ## 教材 : [PythonとKerasによるディープラーニング](https://book.mynavi.jp/ec/products/detail/id=90124)
 
 ![](https://book.mynavi.jp/files/topics/90124_ext_06_0.jpg)
@@ -33,3 +35,10 @@
 - [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
 - [Keras Tutorial](https://keras.io/ja/#30keras)
 - [keras Udemy](https://www.udemy.com/keras_aidev/)
+
+
+# Papers
+
+|Data|Name|Title|Link to Document|
+|:--|:--:|:--:|:--:|
+|4/19|Nao Tokui ([@naotokui](https://github.com/naotokui/))|Introduction + Karl Sims, [Evolving Virtual Creatures](https://www.karlsims.com/papers/siggraph94.pdf) | [Slides](https://docs.google.com/presentation/d/1u6AeOHXh8wWmW12Aux5bi7aGijim7YkLfd2V1avgaWQ/edit?usp=sharing) |
