@@ -42,3 +42,4 @@
 |Data|Name|Title|Link to Document|
 |:--|:--:|:--:|:--:|
 |4/19|Nao Tokui ([@naotokui](https://github.com/naotokui/))|Introduction + Karl Sims, [Evolving Virtual Creatures](https://www.karlsims.com/papers/siggraph94.pdf) | [Slides](https://docs.google.com/presentation/d/1u6AeOHXh8wWmW12Aux5bi7aGijim7YkLfd2V1avgaWQ/edit?usp=sharing) |
+|4/26|Satomi Osaki |Hertzmann, A. (2018). Can Computers Create Art? (http://arxiv.org/abs/1801.04486)| [Slides](https://docs.google.com/presentation/d/1Kb86R-XtM9VX-A9eVCM-CGTE8OcjdE6Aw77dXSKIVwM/edit?usp=sharing) |
